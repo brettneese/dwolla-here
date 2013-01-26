@@ -1,0 +1,85 @@
+
+#send{
+
+
+	width: 250px;
+	margin: 0 auto;
+}
+
+
+#send_wide{
+
+
+	width: 300px;
+	margin: 0 auto;
+}
+
+h3{
+
+	text-align: center;
+}
+#dollars {
+	width: 75px;
+	display:inline;
+}
+
+#cents  {
+	width: 50px;
+		display:inline;
+
+}
+
+#part_1 {
+	width: 50px;
+	display:inline;
+}
+
+#part_2  {
+	width: 50px;
+		display:inline;
+
+}
+
+
+#part_3 {
+	width: 75px;
+		display:inline;
+
+}
+
+#pin{
+		display:inline;
+
+	width: 100px;
+}
+
+.footer_links{
+
+	margin-top: 25px;
+
+}
+
+
+#sent{
+
+	width: 250px;
+	margin: 0 auto;
+}
+
+#sent h1{
+
+	text-align: center;
+}
+
+#sent h2{
+
+	text-align: center;
+}
+
+#share{
+
+	width: 100px;
+		margin: auto;
+
+
+}
